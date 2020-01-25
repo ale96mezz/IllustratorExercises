@@ -1,2 +1,2 @@
 # IllustratorExercises
-Learning Adobe Illustrator
+Learning Adobe Illustrator.
